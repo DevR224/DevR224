@@ -98,10 +98,10 @@ I believe good security analysis is not just about tools — it’s about **thin
 
 | Project | Focus | Link |
 |------|------|------|
-| 🧪 Malware Analysis Lab | FlareVM-based Virtualization | 🔗 |
-| 🔍 Static Malware Analysis | PE & file-based analysis reports | 🔗 |
-| ⚙️ Dynamic Malware Analysis | Behavioral & network analysis | 🔗 |
-| 🚨 SOC Alert Investigations | LetsDefend alert walkthroughs & IOC's | 🔗 |
+| 🧪 Malware Analysis Lab | FlareVM-based Virtualization | https://github.com/DevR224/malware-analysis-lab🔗 |
+| 🔍 Static Malware Analysis | PE & file-based analysis reports | https://github.com/DevR224/static-malware-analysis🔗 |
+| ⚙️ Dynamic Malware Analysis | Behavioral & network analysis | https://github.com/DevR224/dynamic-malware-analysis🔗 |
+| 🚨 SOC Alert Investigations | LetsDefend alert walkthroughs & IOC's | https://github.com/DevR224/letsdefend-alerts🔗 |
 
 *(All projects follow SOC-style documentation with IOC evidence.)*
 
