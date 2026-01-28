@@ -18,7 +18,7 @@
 <a href="https://hashnode.com/@rideshcyber">
   <img src="https://img.shields.io/badge/Hashnode-Tech%20Blogs-blue?style=flat&logo=hashnode">
 </a>
-<a href=<"mailto:rideshcyber@gmail.com">
+<a href="mailto:rideshcyber@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail">
 </a>
 </p>
@@ -63,6 +63,14 @@ I believe good security analysis is not just about tools — it’s about **thin
 <img src="https://img.shields.io/badge/VirusTotal-IOC%20Enrichment-green">
 <img src="https://img.shields.io/badge/ANY.RUN-Dynamic%20Analysis-purple">
 </p>
+
+- SIEM concepts & workflows (Splunk-style analysis)
+- LetsDefend SOC Platform  
+- Wireshark  
+- VirusTotal  
+- Any.Run  
+- Hybrid Analysis  
+- URLScan.io  
 
 ### 🔹 Malware Analysis
 
@@ -140,5 +148,5 @@ Seeking a **SOC Analyst Intern / Cybersecurity Intern (SOC Focus)** role where I
 ---
 
 <p align="center">
-⭐ Feel free to explore my repositories or connect with me for collaboration.
+⭐ Feel free to explore my repositories or connect with me.
 </p>
