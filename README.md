@@ -18,7 +18,7 @@
 <a href="https://hashnode.com/@rideshcyber">
   <img src="https://img.shields.io/badge/Hashnode-Tech%20Blogs-blue?style=flat&logo=hashnode">
 </a>
-<a href=<"rideshcyber@gmail.com">
+<a href=<"mailto:rideshcyber@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail">
 </a>
 </p>
