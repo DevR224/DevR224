@@ -18,7 +18,7 @@
 <a href="https://hashnode.com/@rideshcyber">
   <img src="https://img.shields.io/badge/Hashnode-Tech%20Blogs-blue?style=flat&logo=hashnode">
 </a>
-<a href="https://rideshcyber@gmail.com">
+<a href=<"rideshcyber@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail">
 </a>
 </p>
@@ -28,7 +28,7 @@
 <a href="https://github.com/DevR224/malware-analysis-lab">
   <img src="https://img.shields.io/badge/Malware%20Lab-FlareVM-red">
 </a>
-<a href="https://github.com/YOUR_USERNAME/letsdefend-alerts">
+<a href="https://github.com/DevR224/letsdefend-alerts">
   <img src="https://img.shields.io/badge/SOC%20Alerts-LetsDefend-cyan">
 </a>
 </p>
